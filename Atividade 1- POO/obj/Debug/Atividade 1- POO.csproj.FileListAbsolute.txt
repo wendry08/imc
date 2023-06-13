@@ -1,0 +1,11 @@
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\bin\Debug\Atividade 1- POO.exe.config
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\bin\Debug\Atividade 1- POO.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\bin\Debug\Atividade 1- POO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade 1- POO.csproj.AssemblyReference.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade 1- POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade_1__POO.Form1.resources
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade_1__POO.Properties.Resources.resources
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade 1- POO.csproj.GenerateResource.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade 1- POO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade 1- POO.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Atividade 1- POO\Atividade 1- POO\obj\Debug\Atividade 1- POO.pdb
